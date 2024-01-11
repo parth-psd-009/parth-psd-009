@@ -9,7 +9,7 @@
 
 - 📝 I write articles on [https://medium.com/@saarthee](https://medium.com/@saarthee)
 
-- 💬 Ask me about **React, Node, Python and AI/ML**
+- 💬 Ask me about **React, Node, Python, AI/ML and Design (UI/UX)**
 
 - 📫 How to reach me **dixitparthsarathi@gmail.com**
 
