@@ -9,11 +9,11 @@
 
 - 📝 I write articles on [https://medium.com/@saarthee](https://medium.com/@saarthee)
 
-- 💬 Ask me about **React, Node, Python, AI/ML and Design (UI/UX)**
+- 💬 Ask me about **React, Node, Python, AI/ML , Design or any interesting thing**
 
 - 📫 How to reach me **dixitparthsarathi@gmail.com**
 
-- ⚡ My hobbies **Music 🎸🎹, Video Games 🎮 ,Literature 📖, Movies 🎬**
+- ⚡ My hobbies **Music 🎸🎹, Video Games 🎮 ,Literature 📖, Art 🎨, Movies 🎬**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
