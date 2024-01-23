@@ -83,3 +83,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-psd-009&label=Profile%20views&color=0e75b6&style=flat" alt="parth-psd-009" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parth-psd-009&" alt="parth-psd-009" /></p>
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=parth-psd-009&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+
+### 😂 Random Dev Meme
+
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
