@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/parthsdixit" target="blank"><img src="https://img.shields.io/twitter/follow/parthsdixit?logo=twitter&style=for-the-badge" alt="parthsdixit" /></a> </p>
 
 
--   🔭 I’m currently working on **Chat-Z**
+
 
 -   👯 I’m looking to collaborate on **projects related to web development, AI/ML and more.**
 
