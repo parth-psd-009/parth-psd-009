@@ -5,12 +5,13 @@
 
 
 
-
 -   👯 I’m looking to collaborate on **projects related to web development, AI/ML and more.**
 
 -   📝 I write articles on [https://medium.com/@saarthee](https://medium.com/@saarthee)
 
--   💬 Ask me about **React, Node, Python, AI/ML , Design or any interesting thing**
+-   🕸️ [My website](https://parth-sarathi-dixit.vercel.app/) 
+    
+-   💬 Ask me about **React, Node, Python, AI/ML, Design, Gaming or any interesting thing**
 
 -   📫 How to reach me **dixitparthsarathi@gmail.com**
 
