@@ -31,7 +31,7 @@
 <a href="https://medium.com/@saarthee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saarthee" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sarthi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarthi_" height="30" width="40" /></a>
 <a href="https://kaggle.com/parthsarathidixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="parthsarathidixit" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ezio-auditore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ezio-auditore" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ezio-auditore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ezios-auditore" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/dixitpart3urr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dixitpart3urr" height="30" width="40" /></a>
 
 </p>
