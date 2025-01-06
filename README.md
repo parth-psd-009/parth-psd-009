@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
 <h3 align="center">A student and developer</h3>
 
-<p align="left"> <a href="https://twitter.com/parthsdixit" target="blank"><img src="https://img.shields.io/twitter/follow/parthsdixit?logo=twitter&style=for-the-badge" alt="parthsdixit" /></a> </p>
+<p align="left"> <a href="https://twitter.com/parthsdixit" target="blank"><img src="https://img.shields.io/twitter/follow/parth_sd20_09?logo=twitter&style=for-the-badge" alt="parthsdixit" /></a> </p>
 
 
 
