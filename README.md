@@ -15,7 +15,9 @@
 
 -   📫 How to reach me **dixitparthsarathi@gmail.com**
 
--   ⚡ My hobbies **Music 🎸🎹, Video Games 🎮 ,Literature 📖, Art 🎨, Movies 🎬**
+-   👨🏻‍💻2nd Github Account https://github.com/ezio-da-firenze/
+
+-   ⚡ My hobbies **Music 🎸🎹, Literature 📖, Video Games 🎮, Art 🎨, Movies 🎬**
 
 ### Blogs posts
 
