@@ -17,7 +17,7 @@
 
 -   👨🏻‍💻2nd Github Account https://github.com/ezio-da-firenze/
 
--   ⚡ My hobbies **Music 🎸🎹, Literature 📖, Video Games 🎮, Art 🎨, 🏏 Sports**
+-   ⚡ My hobbies **Music 🎸🎹, Literature 📖, Video Games 🎮, Art 🎨, Sports 🏏**
 
 ### Blogs posts
 
