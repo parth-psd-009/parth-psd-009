@@ -11,13 +11,13 @@
 
 -   🕸️ [My website](https://parth-sarathi-dixit.vercel.app/) 
     
--   💬 Ask me about **React, Node, Python, AI/ML, Design, Gaming or any interesting thing**
+-   💬 Ask me about **Anything intersting!!!**
 
 -   📫 How to reach me **dixitparthsarathi@gmail.com**
 
 -   👨🏻‍💻2nd Github Account https://github.com/ezio-da-firenze/
 
--   ⚡ My hobbies **Music 🎸🎹, Literature 📖, Video Games 🎮, Art 🎨, Movies 🎬**
+-   ⚡ My hobbies **Music 🎸🎹, Literature 📖, Video Games 🎮, Art 🎨, 🏏 Sports**
 
 ### Blogs posts
 
