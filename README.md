@@ -33,7 +33,6 @@
 <a href="https://medium.com/@saarthee" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="@saarthee" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/morph__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarthi_" height="30" width="40" /></a>
 <a href="https://kaggle.com/parthsarathidixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="parthsarathidixit" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dixitpart3urr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dixitpart3urr" height="30" width="40" /></a>
 
 </p>
 
